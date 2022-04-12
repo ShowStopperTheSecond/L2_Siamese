@@ -1,4 +1,4 @@
-# L2_Siamese-
+# L2_Siamese
 Implementation of [L2-Siamese](https://ieeexplore.ieee.org/document/9264687) network for image registration using TensorFlow 
 
 Example of Synthetic SAR images registered using the network
