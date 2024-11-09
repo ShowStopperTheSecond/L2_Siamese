@@ -3,6 +3,9 @@ Implementation of [L2-Siamese](https://ieeexplore.ieee.org/document/9264687) net
 
 Example of Synthetic SAR images registered using the network
 
+Check out the the notebook in kaggle [here](https://www.kaggle.com/code/javidtheimmortal/l2siamese-samemodality)
+
+
 ![image](https://user-images.githubusercontent.com/62745203/162971504-3af349cf-ce2d-4c68-a21b-2025e2a16fc9.png)
 
 ![image](https://user-images.githubusercontent.com/62745203/162971710-4b10f95e-c6fd-49e3-af10-a4010cd00335.png)
@@ -16,4 +19,3 @@ Example of Synthetic SAR images registered using the network
 ![image](https://user-images.githubusercontent.com/62745203/162972117-3b1d8180-571d-45f7-8302-fbf680d3f1da.png)
 
 
-Check out the the notebook in kaggle [here](https://www.kaggle.com/code/javidtheimmortal/l2siamese-samemodality)
